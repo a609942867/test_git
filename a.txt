@@ -2,3 +2,4 @@ come from a.txt in local repository a
 come from b.txt in local repository b
 come from a secondly
 come from b secondly
+come from master a
